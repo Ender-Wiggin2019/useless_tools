@@ -2,7 +2,7 @@
 
 ## pgOperation
 
-对 postgreSQL + pandas 的一些操作，这一版本每次调用都会新建连接并关闭连接，未来可以优化
+对 postgreSQL + pandas 的一些操作
 
 ## dataOperation
 
@@ -15,3 +15,8 @@ jiandaoyun 的API调用类
 ## ksjApi
 
 一个带有加解密+证书认证的API
+
+## thiefBookMouseControl
+
+使用鼠标操控 vscode插件`Thief-Book`,兼容Win和Mac版本。
+For Mac users, plz notice permission <https://pynput.readthedocs.io/en/latest/limitations.html#mac-osx>
